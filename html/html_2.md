@@ -75,5 +75,23 @@
 
 `<address>联系地址信息</address>` 此标签用来显示地址信息，样式为 *斜体* 。
 
+# 加入代码
 
+单行代码：
+
+```html
+<code>var i=i+300;</code>
+```
+
+**加入多行代码时要使用 `<pre>` 标签**
+
+```html
+<pre>
+    var message="欢迎";
+    for(var i=1;i<=10;i++)
+    {
+        alert(message);
+    }
+</pre>
+```
 
