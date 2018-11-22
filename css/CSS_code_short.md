@@ -19,7 +19,7 @@ div{
 - 如果`top`和`bottom`相同，`left`和`right`相同，可缩写为
 
   ```css
-  div{margin: 10px 20px} /*上下为10px，左右为20px*/
+  div{margin: 10px 20px;} /*上下为10px，左右为20px*/
   ```
 
 - 如果`left`和`right`相同，可缩写为
