@@ -224,3 +224,9 @@ value取值（要加双引号`"..."`）：
 
 ## 3.5 控制类名（className属性）
 
+className属性可以返回或设置元素的class属性值
+
+```javascript
+Object.className = classname
+```
+
